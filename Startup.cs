@@ -17,6 +17,7 @@ namespace Student5
 {
     public class Startup
     {
+	    //test
         public Startup(IHostingEnvironment env)
         {
             var builder = new ConfigurationBuilder()
